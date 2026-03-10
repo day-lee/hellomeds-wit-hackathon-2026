@@ -90,3 +90,6 @@ https://your-forwarded-address/make-call
 | No sound on call | Check Twilio Routing is set to **Europe (IE1)** |
 | Gemini quota exceeded | Generate a new API key at [Google AI Studio](https://aistudio.google.com/app/apikey) |
 | Module not found | Run `pip install -r requirements.txt` inside `.venv` |
+
+## Reference
+https://youtu.be/Pm15zVOkFWs?si=cyplXQVd5Fbc-kb9 
